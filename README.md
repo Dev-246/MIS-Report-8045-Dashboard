@@ -60,6 +60,16 @@ A comprehensive Management Information System (MIS) Dashboard built using Power 
 These filters allow dynamic analysis across different dimensions.
 
 ---
+## ⚙️ Advanced Features
+
+### 🔍 Tooltips
+- Implemented **custom tooltips** to provide additional insights on hover  
+- Enables users to view detailed breakdowns without cluttering the dashboard  
+
+### 🔽 Drill-Down Functionality
+- Enabled **drill-down and drill-up features** in visuals  
+- Allows users to explore data hierarchically (e.g., Region → Area → Branch level)  
+
 
 ## 🛠️ Tools & Technologies
 
